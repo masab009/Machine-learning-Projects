@@ -21,8 +21,8 @@ This project implements a **feedforward neural network** in C++ for tasks like s
 ## Getting Started
 
 ### Prerequisites
-- **OpenMP** for multithreading.
-- Standard C++ libraries (`<vector>`, `<fstream>`, `<cmath>`, etc.).
+- replace the file path with the dataset given in the repository
+- Standard C++ libraries (`<vector>`, `<fstream>`, `<cmath>`, etc.) should be present already from the C++ base package.
 
 ### Setup and Compilation
 1. Clone or download the repository.
